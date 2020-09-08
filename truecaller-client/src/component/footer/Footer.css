@@ -1,0 +1,14 @@
+.scrollTop {
+  position: fixed;
+  right: 0;
+  bottom: 40px;
+  padding: 10px;
+  background: #0f273a;
+  cursor: pointer;
+}
+.scrollTop svg {
+  width: 20px;
+}
+.scrollTop path {
+  fill: #ffffff;
+}

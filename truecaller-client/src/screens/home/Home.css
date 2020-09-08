@@ -1,0 +1,43 @@
+article {
+  margin-bottom: 20px;
+}
+.post-container,
+.cat-container {
+  margin: 20px 0px;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+.card-body {
+  padding: 20px;
+}
+.card-meta,
+.card-title {
+  margin-bottom: 10px;
+}
+.clink {
+  padding: 4px 8px;
+  margin: 4px 0;
+  display: inline-block;
+  border-left: 6px solid #0086fe;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.card-meta svg {
+  width: 0.8rem;
+}
+.ml-10 {
+  margin-left: 10px;
+}
+.card-text {
+  color: #777777;
+}
+.read-more {
+  display: block;
+  margin-top: 10px;
+  text-align: right;
+}
+.read-more a {
+  border-bottom: 2px solid;
+}

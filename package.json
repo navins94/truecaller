@@ -1,0 +1,17 @@
+{
+	"name": "navin",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"client": "cd truecaller-client && npm start",
+		"server": "cd truecaller-server && npm start",
+		"start": "npm run server & npm run client"
+	},
+	"devDependencies": {
+		"concurrently": "^3.6.1"
+	},
+	"keywords": [],
+	"author": "Navin Shingote",
+	"license": "ISC"
+}

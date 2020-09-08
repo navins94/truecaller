@@ -1,0 +1,15 @@
+.cat-header {
+  border-bottom: 5px solid #0086fe;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.cat-container ul li {
+  padding: 10px 0px;
+}
+.cat-container ul li a {
+  border-left-style: solid;
+  padding-left: 10px;
+  border-left-width: 5px;
+}
